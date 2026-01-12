@@ -25,7 +25,6 @@ Building intelligent, data-driven systems using Machine Learning and Generative 
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch"/>
   <img src="https://img.shields.io/badge/LangChain-0FA958?style=flat"/>
   <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
@@ -104,16 +103,13 @@ Building intelligent, data-driven systems using Machine Learning and Generative 
 - Delivered data-driven insights through visual analysis  
 
 ---
-## 📈 GitHub Stats & Activity
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavRadhakrishnan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=AbhinavRadhakrishnan&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavRadhakrishnan&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavRadhakrishnan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="40%" />
-</p>
+
 
 
 ## 📜 Certifications

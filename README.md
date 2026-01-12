@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](Banner.png)
 
 <p align="center">
 Building intelligent, data-driven systems using Machine Learning and Generative AI.

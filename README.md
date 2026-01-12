@@ -132,10 +132,3 @@ Building intelligent, data-driven systems using Machine Learning and Generative 
 
 
 
-## 🔑 Keywords
-Machine Learning Engineer, AI Engineer, Data Scientist, Python Developer,  
-Supervised Learning, Regression, Classification, Decision Trees, Random Forest,  
-Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG),  
-LangChain, ChromaDB, Feature Engineering, Model Evaluation,  
-End-to-End ML Pipelines, Data Analysis, SQL, Streamlit, Git
-

@@ -12,7 +12,7 @@ Building intelligent, data-driven systems using Machine Learning and Generative 
 ---
 
 ## 🧠 About Me
-- 🎓 MCA Graduate in Computer Applications (Machine Learning & Data Science)
+- 🎓 MCA Graduate in Computer Applications 
 - 💼 Data Scientist Intern with 6+ months of hands-on experience
 - 🤖 Passionate about Machine Learning, AI, and Generative AI systems
 - 📊 Strong experience in Python-based ML pipelines and data analysis

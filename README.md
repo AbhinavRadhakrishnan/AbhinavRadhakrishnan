@@ -102,12 +102,6 @@ Building intelligent, data-driven systems using Machine Learning and Generative 
 - Identified key factors impacting employee performance  
 - Delivered data-driven insights through visual analysis  
 
----
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavRadhakrishnan&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
 
 
 

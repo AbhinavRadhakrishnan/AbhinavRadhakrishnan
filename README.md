@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhinav Radhakrishnan</h1>
-<h3 align="center">Machine Learning Engineer | AI & Data Science</h3>
+![Banner](banner.png)
 
 <p align="center">
 Building intelligent, data-driven systems using Machine Learning and Generative AI.

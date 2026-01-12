@@ -1,6 +1,11 @@
 ![Banner](Banner.png)
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbhinavRadhakrishnan&label=Profile%20Views&color=7AA2F7&style=flat" />
+</p>
+
+
+<p align="center">
 Building intelligent, data-driven systems using Machine Learning and Generative AI.
 </p>
 
@@ -57,6 +62,22 @@ Building intelligent, data-driven systems using Machine Learning and Generative 
 - Jupyter Notebook, Google Colab
 - Streamlit, Power BI
 
+- ## 🛠️ Core Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch"/>
+  <img src="https://img.shields.io/badge/LangChain-0FA958?style=flat"/>
+  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+</p>
+
+
 ---
 
 ## 🚀 Featured Projects
@@ -85,6 +106,17 @@ Building intelligent, data-driven systems using Machine Learning and Generative 
 - Delivered data-driven insights through visual analysis  
 
 ---
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavRadhakrishnan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavRadhakrishnan&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavRadhakrishnan&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
 
 ## 📜 Certifications
 - Certified Data Scientist – Datamites  
@@ -103,3 +135,13 @@ Building intelligent, data-driven systems using Machine Learning and Generative 
 <p align="center">
 ✨ Always learning. Always building. ✨
 </p>
+
+
+
+## 🔑 Keywords
+Machine Learning Engineer, AI Engineer, Data Scientist, Python Developer,  
+Supervised Learning, Regression, Classification, Decision Trees, Random Forest,  
+Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG),  
+LangChain, ChromaDB, Feature Engineering, Model Evaluation,  
+End-to-End ML Pipelines, Data Analysis, SQL, Streamlit, Git
+

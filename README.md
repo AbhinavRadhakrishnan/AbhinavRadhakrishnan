@@ -109,7 +109,8 @@ Building intelligent, data-driven systems using Machine Learning and Generative 
 ## 📜 Certifications
 - Certified Data Scientist – Datamites  
 - Diploma in Artificial Intelligence & Machine Learning – Global India Techno Hub  
-- Certification in Artificial Intelligence & Machine Learning – Global India Techno Hub  
+- Certification in Artificial Intelligence & Machine Learning – Global India Techno Hub
+- Certified Data Scientist - IABAC 
 
 ---
 
